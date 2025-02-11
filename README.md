@@ -1,5 +1,6 @@
 # Python_germ_bav_trans
 Translate from en to bav
+
 Note: some lines of code are commented out. they are for me when I wrote the code and tested various things beforehand and to see what kind of output I get and what type.
 
 
